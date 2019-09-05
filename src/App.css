@@ -1,0 +1,482 @@
+@media screen and (max-width: 300px) {
+  .customer-code {
+    margin-top: 4px;
+    margin-left: 5px;
+    width: 222px;
+  }
+
+  #conciliacion-bancaria {
+    display: none;
+  }
+
+  #menu-principal {
+    display: none;
+  }
+
+  #cerrar-sesion {
+    display: none;
+  }
+
+  #descuentos {
+    display: none;
+  }
+
+  #flecha-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #casa-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #logout-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #descuentos-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  .btn-excel {
+    margin-right: -350px;
+  }
+  .btn-imprimir {
+    margin-right: -70px;
+  }
+
+  #distribuidora-logo {
+    height: 120px;
+    margin-right: 20px;
+  }
+
+  .btn-index {
+    margin-top: 155px;
+    margin-left: 165px;
+  }
+  .btn-bancaria {
+    margin-top: 5px;
+  }
+}
+
+@media screen and (min-width: 301px) {
+  .customer-code {
+    margin-top: 4px;
+    margin-left: 5px;
+    width: 222px;
+  }
+
+  #conciliacion-bancaria {
+    display: none;
+  }
+
+  #menu-principal {
+    display: none;
+  }
+
+  #cerrar-sesion {
+    display: none;
+  }
+
+  #descuentos {
+    display: none;
+  }
+
+  #pencil-icon {
+    cursor: pointer;
+  }
+
+  #trash-icon {
+    cursor: pointer;
+  }
+
+  #flecha-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #casa-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #logout-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #descuentos-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  .btn-excel {
+    margin-right: -330px;
+  }
+  .btn-imprimir {
+    margin-right: -50px;
+  }
+
+  #distribuidora-logo {
+    height: 100px;
+    margin-left: -14px;
+  }
+
+  .btn-index {
+    margin-top: 150px;
+    margin-left: 30px;
+  }
+
+  .btn-bancaria {
+    margin-top: 30px;
+  }
+}
+
+@media screen and (min-width: 360px) {
+  .customer-code {
+    margin-left: 20px;
+  }
+
+  #conciliacion-bancaria {
+    display: none;
+  }
+
+  #menu-principal {
+    display: none;
+  }
+
+  #cerrar-sesion {
+    display: none;
+  }
+
+  #descuentos {
+    display: none;
+  }
+
+  #flecha-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #casa-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #logout-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #descuentos-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  .btn-excel {
+    margin-right: -280px;
+  }
+
+  #distribuidora-logo {
+    height: 109px;
+  }
+
+  .btn-index {
+    margin-top: 155px;
+    margin-left: 50px;
+  }
+
+  .btn-bancaria {
+    margin-top: 30px;
+  }
+}
+
+@media screen and (min-width: 375px) {
+  .customer-code {
+    margin-left: 30px;
+  }
+
+  #flecha-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #casa-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #logout-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #descuentos-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  .btn-excel {
+    margin-right: -250px;
+  }
+  #distribuidora-logo {
+    height: 120px;
+  }
+
+  .btn-index {
+    margin-top: 155px;
+    margin-left: 50px;
+  }
+
+  .btn-bancaria {
+    margin-top: 30px;
+  }
+}
+
+@media screen and (min-width: 411px) {
+  .customer-code {
+    margin-left: 50px;
+  }
+
+  #flecha-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #casa-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #logout-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #descuentos-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  .btn-excel {
+    margin-right: -200px;
+  }
+  .btn-imprimir {
+    margin-right: 12px;
+  }
+
+  .btn-bancaria {
+    margin-top: 30px;
+  }
+}
+
+@media screen and (min-width: 500px) {
+  .customer-code {
+    margin-left: 90px;
+  }
+
+  #conciliacion-bancaria {
+    display: none;
+  }
+
+  #menu-principal {
+    display: none;
+  }
+
+  #cerrar-sesion {
+    display: none;
+  }
+
+  #descuentos {
+    display: none;
+  }
+
+  #flecha-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #casa-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #logout-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  #descuentos-icon {
+    display: inline;
+    cursor: pointer;
+  }
+
+  .btn-excel {
+    margin-right: -100px;
+  }
+
+  .date-desde {
+    margin-left: 220px;
+  }
+
+  .dropdown {
+    top: -1px;
+  }
+
+  #distribuidora-logo {
+    height: 150px;
+  }
+
+  .btn-index {
+    margin-top: 155px;
+    margin-left: 30px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .customer-code {
+    margin-left: 1px;
+  }
+
+  #conciliacion-bancaria {
+    display: inline;
+  }
+
+  #menu-principal {
+    display: inline;
+  }
+
+  #cerrar-sesion {
+    display: inline;
+  }
+
+  #descuentos {
+    display: inline;
+  }
+
+  #flecha-icon {
+    display: none;
+  }
+
+  #casa-icon {
+    display: none;
+  }
+
+  #logout-icon {
+    display: none;
+  }
+
+  #descuentos-icon {
+    display: none;
+  }
+
+  .btn-excel {
+    margin-right: -1px;
+  }
+  .dropdown {
+    top: -1px;
+  }
+
+  #distribuidora-logo {
+    height: 220px;
+  }
+
+  .btn-index {
+    margin-top: 155px;
+    margin-left: 65px;
+  }
+  .btn-bancaria {
+    margin-top: unset;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .button-table {
+    position: absolute;
+  }
+  .date-desde {
+    position: relative;
+    top: 5px;
+  }
+
+  .date-hasta {
+    position: relative;
+    top: 5px;
+  }
+
+  #distribuidora-logo {
+    height: 300px;
+  }
+
+  .btn-index {
+    margin-top: 155px;
+    margin-left: 95px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .date-desde {
+    position: relative;
+    top: 5px;
+  }
+
+  .date-hasta {
+    position: relative;
+    top: 5px;
+  }
+  .button-table {
+    position: relative;
+  }
+
+  #distribuidora-logo {
+    height: 300px;
+  }
+
+  .btn-index {
+    margin-top: 155px;
+    margin-right: 110px;
+  }
+}
+
+.cuenta-corriente {
+  font-weight: bold;
+}
+
+.centerCell {
+  text-align: center;
+}
+
+.has-search .form-control {
+  padding-left: 1rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  padding-left: 82%;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+
+@media print {
+  .btn-imprimir {
+    display: none !important;
+  }
+  .btn-back {
+    display: none !important;
+  }
+  .btn-excel {
+    display: none !important;
+  }
+  tr {
+    page-break-inside: avoid !important;
+  }
+}
